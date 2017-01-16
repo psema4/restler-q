@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "q": "~0.9.7",
-    "restler": ">=2.0.1"
+    "restler": "psema4/restler#98e72d82"
   },
   "devDependencies": {
     "mocha": "~1.13.0"
